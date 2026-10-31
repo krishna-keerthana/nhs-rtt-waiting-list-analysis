@@ -1,0 +1,277 @@
+month,Treatment Function Name,total_waiting,waiting_within_18wks,waiting_over_52wks,pct_within_18wks
+2025-04,Cardiology Service,410447.0,248197.0,7748.0,60.5
+2025-04,Cardiothoracic Surgery Service,10118.0,6748.0,180.0,66.7
+2025-04,Dermatology Service,402039.0,243461.0,9213.0,60.6
+2025-04,Ear Nose and Throat Service,640611.0,326115.0,26740.0,50.9
+2025-04,Elderly Medicine Service,23622.0,19297.0,48.0,81.7
+2025-04,Gastroenterology Service,387757.0,242350.0,6850.0,62.5
+2025-04,General Internal Medicine Service,39540.0,26875.0,291.0,68.0
+2025-04,General Surgery Service,397596.0,235059.0,11762.0,59.1
+2025-04,Gynaecology Service,581381.0,320457.0,18242.0,55.1
+2025-04,Neurology Service,226685.0,121965.0,6732.0,53.8
+2025-04,Neurosurgical Service,59217.0,34806.0,1420.0,58.8
+2025-04,Ophthalmology Service,590862.0,406705.0,9334.0,68.8
+2025-04,Oral Surgery Service,330221.0,166285.0,13770.0,50.4
+2025-04,Other - Medical Services,635425.0,413231.0,10033.0,65.0
+2025-04,Other - Mental Health Services,2509.0,1852.0,5.0,73.8
+2025-04,Other - Other Services,165507.0,120665.0,2976.0,72.9
+2025-04,Other - Paediatric Services,332695.0,203540.0,8528.0,61.2
+2025-04,Other - Surgical Services,482845.0,295579.0,12019.0,61.2
+2025-04,Plastic Surgery Service,102317.0,55116.0,3657.0,53.9
+2025-04,Respiratory Medicine Service,213536.0,136586.0,2875.0,64.0
+2025-04,Rheumatology Service,124070.0,82295.0,1632.0,66.3
+2025-04,Trauma and Orthopaedic Service,852738.0,480796.0,26413.0,56.4
+2025-04,Urology Service,409715.0,242585.0,12092.0,59.2
+2025-05,Cardiology Service,401421.0,246680.0,7713.0,61.5
+2025-05,Cardiothoracic Surgery Service,9991.0,6704.0,198.0,67.1
+2025-05,Dermatology Service,413963.0,258551.0,10600.0,62.5
+2025-05,Ear Nose and Throat Service,637813.0,329303.0,28615.0,51.6
+2025-05,Elderly Medicine Service,23648.0,19637.0,58.0,83.0
+2025-05,Gastroenterology Service,377572.0,240791.0,6567.0,63.8
+2025-05,General Internal Medicine Service,37880.0,26532.0,281.0,70.0
+2025-05,General Surgery Service,394767.0,237611.0,11490.0,60.2
+2025-05,Gynaecology Service,579525.0,326866.0,18458.0,56.4
+2025-05,Neurology Service,225459.0,124836.0,6855.0,55.4
+2025-05,Neurosurgical Service,58778.0,35502.0,1648.0,60.4
+2025-05,Ophthalmology Service,591689.0,415426.0,9598.0,70.2
+2025-05,Oral Surgery Service,330318.0,170778.0,13738.0,51.7
+2025-05,Other - Medical Services,640580.0,421818.0,11181.0,65.8
+2025-05,Other - Mental Health Services,2438.0,1884.0,4.0,77.3
+2025-05,Other - Other Services,159902.0,119531.0,2950.0,74.8
+2025-05,Other - Paediatric Services,332200.0,207165.0,9126.0,62.4
+2025-05,Other - Surgical Services,482498.0,300254.0,12727.0,62.2
+2025-05,Plastic Surgery Service,102837.0,57218.0,4000.0,55.6
+2025-05,Respiratory Medicine Service,208340.0,135020.0,3114.0,64.8
+2025-05,Rheumatology Service,123363.0,83705.0,1654.0,67.9
+2025-05,Trauma and Orthopaedic Service,851668.0,492622.0,27133.0,57.8
+2025-05,Urology Service,401627.0,240734.0,11882.0,59.9
+2025-06,Cardiology Service,396660.0,245125.0,7404.0,61.8
+2025-06,Cardiothoracic Surgery Service,10358.0,7364.0,180.0,71.1
+2025-06,Dermatology Service,429065.0,273085.0,10940.0,63.6
+2025-06,Ear Nose and Throat Service,637470.0,330344.0,27928.0,51.8
+2025-06,Elderly Medicine Service,24385.0,20538.0,48.0,84.2
+2025-06,Gastroenterology Service,374586.0,241828.0,6192.0,64.6
+2025-06,General Internal Medicine Service,37569.0,26099.0,258.0,69.5
+2025-06,General Surgery Service,395532.0,241492.0,11031.0,61.1
+2025-06,Gynaecology Service,581261.0,331721.0,17953.0,57.1
+2025-06,Neurology Service,225658.0,127253.0,6820.0,56.4
+2025-06,Neurosurgical Service,57991.0,35049.0,1441.0,60.4
+2025-06,Ophthalmology Service,594477.0,419984.0,8845.0,70.6
+2025-06,Oral Surgery Service,328404.0,169586.0,13195.0,51.6
+2025-06,Other - Medical Services,644898.0,427873.0,11017.0,66.3
+2025-06,Other - Mental Health Services,2478.0,1841.0,4.0,74.3
+2025-06,Other - Other Services,155817.0,116173.0,2979.0,74.6
+2025-06,Other - Paediatric Services,329872.0,206347.0,9030.0,62.6
+2025-06,Other - Surgical Services,486919.0,306725.0,12380.0,63.0
+2025-06,Plastic Surgery Service,103945.0,59200.0,4145.0,57.0
+2025-06,Respiratory Medicine Service,204616.0,135077.0,2583.0,66.0
+2025-06,Rheumatology Service,124517.0,85606.0,1490.0,68.8
+2025-06,Trauma and Orthopaedic Service,856854.0,502846.0,27687.0,58.7
+2025-06,Urology Service,396943.0,239039.0,11165.0,60.2
+2025-07,Cardiology Service,389777.0,240099.0,6991.0,61.6
+2025-07,Cardiothoracic Surgery Service,9293.0,6549.0,182.0,70.5
+2025-07,Dermatology Service,437764.0,280558.0,11252.0,64.1
+2025-07,Ear Nose and Throat Service,630229.0,320926.0,27100.0,50.9
+2025-07,Elderly Medicine Service,25208.0,21325.0,28.0,84.6
+2025-07,Gastroenterology Service,375775.0,242309.0,6489.0,64.5
+2025-07,General Internal Medicine Service,35003.0,23663.0,325.0,67.6
+2025-07,General Surgery Service,395792.0,241834.0,11136.0,61.1
+2025-07,Gynaecology Service,576835.0,325139.0,18171.0,56.4
+2025-07,Neurology Service,221445.0,123755.0,6786.0,55.9
+2025-07,Neurosurgical Service,57791.0,34495.0,1434.0,59.7
+2025-07,Ophthalmology Service,587925.0,411519.0,8249.0,70.0
+2025-07,Oral Surgery Service,323107.0,165184.0,13020.0,51.1
+2025-07,Other - Medical Services,630153.0,417449.0,10644.0,66.2
+2025-07,Other - Mental Health Services,2645.0,1945.0,3.0,73.5
+2025-07,Other - Other Services,152219.0,113021.0,2623.0,74.2
+2025-07,Other - Paediatric Services,331362.0,204934.0,8808.0,61.8
+2025-07,Other - Surgical Services,478284.0,300103.0,12457.0,62.7
+2025-07,Plastic Surgery Service,102834.0,59461.0,4240.0,57.8
+2025-07,Respiratory Medicine Service,200527.0,131830.0,2524.0,65.7
+2025-07,Rheumatology Service,123610.0,84000.0,1487.0,68.0
+2025-07,Trauma and Orthopaedic Service,856088.0,501849.0,28710.0,58.6
+2025-07,Urology Service,390620.0,234858.0,10110.0,60.1
+2025-08,Cardiology Service,388137.0,237227.0,6979.0,61.1
+2025-08,Cardiothoracic Surgery Service,9321.0,6450.0,160.0,69.2
+2025-08,Dermatology Service,440465.0,282755.0,10520.0,64.2
+2025-08,Ear Nose and Throat Service,625167.0,313803.0,26232.0,50.2
+2025-08,Elderly Medicine Service,25971.0,21699.0,37.0,83.6
+2025-08,Gastroenterology Service,378334.0,242191.0,6975.0,64.0
+2025-08,General Internal Medicine Service,34683.0,23414.0,360.0,67.5
+2025-08,General Surgery Service,396097.0,241959.0,11402.0,61.1
+2025-08,Gynaecology Service,576774.0,324560.0,18400.0,56.3
+2025-08,Neurology Service,222355.0,124400.0,6874.0,55.9
+2025-08,Neurosurgical Service,58447.0,34783.0,1496.0,59.5
+2025-08,Ophthalmology Service,589527.0,411393.0,8137.0,69.8
+2025-08,Oral Surgery Service,321708.0,162514.0,13132.0,50.5
+2025-08,Other - Medical Services,641459.0,424756.0,10769.0,66.2
+2025-08,Other - Mental Health Services,2762.0,1955.0,2.0,70.8
+2025-08,Other - Other Services,150631.0,111572.0,2264.0,74.1
+2025-08,Other - Paediatric Services,329500.0,199740.0,8242.0,60.6
+2025-08,Other - Surgical Services,476402.0,298360.0,12703.0,62.6
+2025-08,Plastic Surgery Service,103364.0,59809.0,4259.0,57.9
+2025-08,Respiratory Medicine Service,197085.0,129343.0,2639.0,65.6
+2025-08,Rheumatology Service,124196.0,83351.0,1410.0,67.1
+2025-08,Trauma and Orthopaedic Service,865083.0,507031.0,29176.0,58.6
+2025-08,Urology Service,388076.0,232597.0,9856.0,59.9
+2025-09,Cardiology Service,389813.0,243171.0,6936.0,62.4
+2025-09,Cardiothoracic Surgery Service,9269.0,6489.0,162.0,70.0
+2025-09,Dermatology Service,436966.0,279592.0,9665.0,64.0
+2025-09,Ear Nose and Throat Service,619049.0,317016.0,23903.0,51.2
+2025-09,Elderly Medicine Service,26079.0,21928.0,26.0,84.1
+2025-09,Gastroenterology Service,380312.0,247511.0,6636.0,65.1
+2025-09,General Internal Medicine Service,35445.0,24334.0,380.0,68.7
+2025-09,General Surgery Service,394291.0,243835.0,10944.0,61.8
+2025-09,Gynaecology Service,576885.0,329324.0,18439.0,57.1
+2025-09,Neurology Service,222324.0,126940.0,5992.0,57.1
+2025-09,Neurosurgical Service,58489.0,35659.0,1464.0,61.0
+2025-09,Ophthalmology Service,591922.0,417896.0,7155.0,70.6
+2025-09,Oral Surgery Service,319102.0,162477.0,12866.0,50.9
+2025-09,Other - Medical Services,637259.0,425068.0,9836.0,66.7
+2025-09,Other - Mental Health Services,2676.0,1801.0,1.0,67.3
+2025-09,Other - Other Services,150968.0,113078.0,2026.0,74.9
+2025-09,Other - Paediatric Services,322730.0,196514.0,7203.0,60.9
+2025-09,Other - Surgical Services,477059.0,302040.0,12226.0,63.3
+2025-09,Plastic Surgery Service,105055.0,61628.0,4243.0,58.7
+2025-09,Respiratory Medicine Service,192497.0,127921.0,2229.0,66.5
+2025-09,Rheumatology Service,122697.0,82675.0,1266.0,67.4
+2025-09,Trauma and Orthopaedic Service,869508.0,517057.0,29111.0,59.5
+2025-09,Urology Service,389179.0,238847.0,9238.0,61.4
+2025-10,Cardiology Service,388897.0,243970.0,6573.0,62.7
+2025-10,Cardiothoracic Surgery Service,9326.0,6553.0,145.0,70.3
+2025-10,Dermatology Service,434502.0,273385.0,9563.0,62.9
+2025-10,Ear Nose and Throat Service,615457.0,315521.0,22105.0,51.3
+2025-10,Elderly Medicine Service,26135.0,21855.0,61.0,83.6
+2025-10,Gastroenterology Service,383164.0,250339.0,6298.0,65.3
+2025-10,General Internal Medicine Service,37037.0,25612.0,306.0,69.2
+2025-10,General Surgery Service,392001.0,240013.0,10232.0,61.2
+2025-10,Gynaecology Service,577404.0,331411.0,18118.0,57.4
+2025-10,Neurology Service,224733.0,129287.0,5632.0,57.5
+2025-10,Neurosurgical Service,58245.0,35872.0,1164.0,61.6
+2025-10,Ophthalmology Service,600728.0,426084.0,6400.0,70.9
+2025-10,Oral Surgery Service,317880.0,161951.0,12722.0,50.9
+2025-10,Other - Medical Services,636088.0,421987.0,9491.0,66.3
+2025-10,Other - Mental Health Services,2900.0,2044.0,2.0,70.5
+2025-10,Other - Other Services,154087.0,115481.0,1916.0,74.9
+2025-10,Other - Paediatric Services,320923.0,195410.0,6412.0,60.9
+2025-10,Other - Surgical Services,483574.0,305524.0,11540.0,63.2
+2025-10,Plastic Surgery Service,105548.0,60490.0,4325.0,57.3
+2025-10,Respiratory Medicine Service,189090.0,126119.0,2092.0,66.7
+2025-10,Rheumatology Service,121595.0,81187.0,1137.0,66.8
+2025-10,Trauma and Orthopaedic Service,867625.0,512573.0,29115.0,59.1
+2025-10,Urology Service,390137.0,241342.0,9024.0,61.9
+2025-11,Cardiology Service,384970.0,242316.0,5557.0,62.9
+2025-11,Cardiothoracic Surgery Service,9279.0,6585.0,150.0,71.0
+2025-11,Dermatology Service,414724.0,256164.0,8438.0,61.8
+2025-11,Ear Nose and Throat Service,589891.0,306732.0,18434.0,52.0
+2025-11,Elderly Medicine Service,25922.0,21209.0,101.0,81.8
+2025-11,Gastroenterology Service,376024.0,243617.0,5843.0,64.8
+2025-11,General Internal Medicine Service,36408.0,24882.0,263.0,68.3
+2025-11,General Surgery Service,381777.0,232794.0,9691.0,61.0
+2025-11,Gynaecology Service,564583.0,324325.0,16603.0,57.4
+2025-11,Neurology Service,219159.0,125667.0,4927.0,57.3
+2025-11,Neurosurgical Service,55317.0,33533.0,1121.0,60.6
+2025-11,Ophthalmology Service,599944.0,424279.0,5689.0,70.7
+2025-11,Oral Surgery Service,314455.0,162402.0,11692.0,51.6
+2025-11,Other - Medical Services,617922.0,407256.0,8076.0,65.9
+2025-11,Other - Mental Health Services,2797.0,1983.0,2.0,70.9
+2025-11,Other - Other Services,152640.0,113885.0,1741.0,74.6
+2025-11,Other - Paediatric Services,317397.0,194069.0,5849.0,61.1
+2025-11,Other - Surgical Services,479566.0,301595.0,10442.0,62.9
+2025-11,Plastic Surgery Service,106160.0,60378.0,4003.0,56.9
+2025-11,Respiratory Medicine Service,184964.0,123966.0,1754.0,67.0
+2025-11,Rheumatology Service,118613.0,79095.0,999.0,66.7
+2025-11,Trauma and Orthopaedic Service,854156.0,503170.0,27719.0,58.9
+2025-11,Urology Service,384642.0,239618.0,8616.0,62.3
+2025-12,Cardiology Service,388079.0,245252.0,5029.0,63.2
+2025-12,Cardiothoracic Surgery Service,9392.0,6750.0,130.0,71.9
+2025-12,Dermatology Service,405659.0,242792.0,7092.0,59.9
+2025-12,Ear Nose and Throat Service,591034.0,310024.0,16212.0,52.5
+2025-12,Elderly Medicine Service,26735.0,21628.0,126.0,80.9
+2025-12,Gastroenterology Service,381906.0,247201.0,5132.0,64.7
+2025-12,General Internal Medicine Service,37148.0,25262.0,257.0,68.0
+2025-12,General Surgery Service,386066.0,231865.0,9228.0,60.1
+2025-12,Gynaecology Service,572008.0,327525.0,15273.0,57.3
+2025-12,Neurology Service,222750.0,126945.0,4269.0,57.0
+2025-12,Neurosurgical Service,59391.0,35932.0,1117.0,60.5
+2025-12,Ophthalmology Service,603289.0,423437.0,5012.0,70.2
+2025-12,Oral Surgery Service,318622.0,164953.0,10611.0,51.8
+2025-12,Other - Medical Services,621799.0,410695.0,7075.0,66.0
+2025-12,Other - Mental Health Services,2791.0,2046.0,4.0,73.3
+2025-12,Other - Other Services,152954.0,114685.0,1556.0,75.0
+2025-12,Other - Paediatric Services,318140.0,198556.0,5205.0,62.4
+2025-12,Other - Surgical Services,481435.0,300287.0,9186.0,62.4
+2025-12,Plastic Surgery Service,105324.0,58143.0,3606.0,55.2
+2025-12,Respiratory Medicine Service,184992.0,125316.0,1419.0,67.7
+2025-12,Rheumatology Service,117989.0,78741.0,875.0,66.7
+2025-12,Trauma and Orthopaedic Service,853046.0,496780.0,25716.0,58.2
+2025-12,Urology Service,391331.0,245923.0,8074.0,62.8
+2026-01,Cardiology Service,385038.0,245978.0,4595.0,63.9
+2026-01,Cardiothoracic Surgery Service,9293.0,6614.0,137.0,71.2
+2026-01,Dermatology Service,396831.0,237137.0,6315.0,59.8
+2026-01,Ear Nose and Throat Service,589045.0,314259.0,16122.0,53.4
+2026-01,Elderly Medicine Service,26371.0,20923.0,143.0,79.3
+2026-01,Gastroenterology Service,383697.0,248777.0,4758.0,64.8
+2026-01,General Internal Medicine Service,37048.0,24796.0,321.0,66.9
+2026-01,General Surgery Service,386565.0,230192.0,8958.0,59.5
+2026-01,Gynaecology Service,566350.0,321894.0,14735.0,56.8
+2026-01,Neurology Service,219187.0,124897.0,3721.0,57.0
+2026-01,Neurosurgical Service,58192.0,35148.0,1061.0,60.4
+2026-01,Ophthalmology Service,598650.0,417006.0,5237.0,69.7
+2026-01,Oral Surgery Service,318440.0,166955.0,10023.0,52.4
+2026-01,Other - Medical Services,618094.0,408519.0,6673.0,66.1
+2026-01,Other - Mental Health Services,2981.0,2296.0,2.0,77.0
+2026-01,Other - Other Services,151357.0,111851.0,1791.0,73.9
+2026-01,Other - Paediatric Services,316214.0,200159.0,4974.0,63.3
+2026-01,Other - Surgical Services,483202.0,300586.0,9189.0,62.2
+2026-01,Plastic Surgery Service,104152.0,56456.0,3432.0,54.2
+2026-01,Respiratory Medicine Service,185422.0,128590.0,1361.0,69.3
+2026-01,Rheumatology Service,116258.0,77050.0,859.0,66.3
+2026-01,Trauma and Orthopaedic Service,845246.0,487113.0,25055.0,57.6
+2026-01,Urology Service,390044.0,245100.0,7858.0,62.8
+2026-02,Cardiology Service,382774.0,252065.0,4159.0,65.9
+2026-02,Cardiothoracic Surgery Service,9323.0,6653.0,155.0,71.4
+2026-02,Dermatology Service,381323.0,233592.0,5283.0,61.3
+2026-02,Ear Nose and Throat Service,587637.0,323960.0,15490.0,55.1
+2026-02,Elderly Medicine Service,26545.0,21354.0,168.0,80.4
+2026-02,Gastroenterology Service,379573.0,250159.0,3995.0,65.9
+2026-02,General Internal Medicine Service,37666.0,25638.0,361.0,68.1
+2026-02,General Surgery Service,385499.0,232441.0,8207.0,60.3
+2026-02,Gynaecology Service,565435.0,327377.0,13160.0,57.9
+2026-02,Neurology Service,216273.0,124445.0,2932.0,57.5
+2026-02,Neurosurgical Service,56821.0,34372.0,927.0,60.5
+2026-02,Ophthalmology Service,602540.0,425098.0,5181.0,70.6
+2026-02,Oral Surgery Service,322932.0,173051.0,9136.0,53.6
+2026-02,Other - Medical Services,624597.0,421212.0,5946.0,67.4
+2026-02,Other - Mental Health Services,3036.0,2437.0,2.0,80.3
+2026-02,Other - Other Services,153307.0,114715.0,1744.0,74.8
+2026-02,Other - Paediatric Services,316672.0,204960.0,4721.0,64.7
+2026-02,Other - Surgical Services,476457.0,302598.0,7929.0,63.5
+2026-02,Plastic Surgery Service,103747.0,56735.0,3049.0,54.7
+2026-02,Respiratory Medicine Service,185125.0,132713.0,1082.0,71.7
+2026-02,Rheumatology Service,114276.0,76958.0,779.0,67.3
+2026-02,Trauma and Orthopaedic Service,837743.0,482846.0,23056.0,57.6
+2026-02,Urology Service,386911.0,247127.0,6818.0,63.9
+2026-03,Cardiology Service,375773.0,260246.0,2892.0,69.3
+2026-03,Cardiothoracic Surgery Service,9135.0,6700.0,117.0,73.3
+2026-03,Dermatology Service,372060.0,241996.0,3653.0,65.0
+2026-03,Ear Nose and Throat Service,580054.0,338823.0,12596.0,58.4
+2026-03,Elderly Medicine Service,26038.0,21559.0,156.0,82.8
+2026-03,Gastroenterology Service,366951.0,256103.0,2925.0,69.8
+2026-03,General Internal Medicine Service,37173.0,26707.0,432.0,71.8
+2026-03,General Surgery Service,376693.0,237011.0,5927.0,62.9
+2026-03,Gynaecology Service,555528.0,337946.0,10033.0,60.8
+2026-03,Neurology Service,208673.0,126369.0,2075.0,60.6
+2026-03,Neurosurgical Service,56423.0,35100.0,776.0,62.2
+2026-03,Ophthalmology Service,603966.0,439395.0,4424.0,72.8
+2026-03,Oral Surgery Service,320612.0,178101.0,7091.0,55.6
+2026-03,Other - Medical Services,614175.0,433775.0,3897.0,70.6
+2026-03,Other - Mental Health Services,3178.0,2597.0,3.0,81.7
+2026-03,Other - Other Services,152735.0,117837.0,1282.0,77.2
+2026-03,Other - Paediatric Services,316520.0,214160.0,3908.0,67.7
+2026-03,Other - Surgical Services,467771.0,309102.0,5642.0,66.1
+2026-03,Plastic Surgery Service,101370.0,57380.0,2464.0,56.6
+2026-03,Respiratory Medicine Service,183922.0,137944.0,665.0,75.0
+2026-03,Rheumatology Service,112400.0,79075.0,755.0,70.4
+2026-03,Trauma and Orthopaedic Service,826172.0,488188.0,18999.0,59.1
+2026-03,Urology Service,378188.0,250640.0,5112.0,66.3
