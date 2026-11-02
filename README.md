@@ -29,7 +29,7 @@ NHS England publishes RTT data every month. I downloaded 12 months of it from th
 
 ## About me
 
-I'm Keerthana Krishna. I have an MSc in Data Science from Cardiff University and a year of NHS experience. I'm looking for data analyst roles in the UK.
+I'm Keerthana Krishna. I have an MSc in Data Science and Analytics from Cardiff University and a year of NHS experience. I'm looking for data analyst roles in the UK.
 ## The dashboard
 
 ### Executive summary
