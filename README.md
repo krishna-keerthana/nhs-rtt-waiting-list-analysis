@@ -18,8 +18,9 @@ Referral to Treatment (RTT) measures how long patients wait from a GP referral t
 - Oral Surgery and Plastic Surgery had the worst compliance.
 - Trauma and Orthopaedics had the biggest waiting list.
 - Mid and South Essex NHS Foundation Trust had the most 52-week breaches.
+- About a quarter of the fall in the waiting list comes from trusts that stopped reporting, not from fewer patients waiting. Sheffield Teaching Hospitals (about 92,000 patients) has no data from July 2025, and Barking, Havering and Redbridge is missing for November 2025, which explains the dip that month. Comparing only providers that reported in both months, the list fell from 7.32 million to 7.03 million (about 4%). The 18-week and 52-week findings hold either way.
 
-My numbers match what NHS England publishes each month.
+My March 2026 total matches NHS England's published figure exactly. NHS England's headline figure is slightly higher (about 7.11 million) because it adds estimates for trusts that did not submit data.
 
 ## How I did it
 
@@ -27,12 +28,13 @@ My numbers match what NHS England publishes each month.
 2. **Cleaned it in Python.** I wrote a function that unzips each monthly file, cleans it and combines the months into around 49,000 analysis-ready rows. This saved repeating the same steps twelve times by hand.
 3. **Analysed it in SQL.** I used joins, GROUP BY and aggregations to build the England-wide monthly trend, 18-week compliance by specialty and 52-week breaches by trust. I filtered to incomplete pathways, which is how NHS England reports the waiting list.
 4. **Built the dashboard in Power BI.** It has KPI cards for the headline numbers, trend charts and breakdowns by specialty and trust.
-5. **Checked my numbers.** I compared my totals with NHS England's published monthly figures, and they match.
+5. **Checked my numbers.** I reconciled my March 2026 total with NHS England's published figure, checked that specialty totals add up to trust totals in every month, and looked for trusts missing from some months.
+6. **Reviewed and corrected my own work.** After publishing, I reviewed the project and fixed three errors: a text-matching bug that counted 100 to 104 week waits as within 18 weeks (1,672 patients over 12 months, no change to any headline percentage), a SQL join that multiplied totals in one query, and a dashboard card that averaged percentages instead of calculating them from patient counts. Full details are in [`VALIDATION_LOG.md`](VALIDATION_LOG.md), and every field is explained in [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md).
 
 ## How to run it
 
 1. Run the notebook in `Notebooks/` to clean the raw files.
-2. Run the queries in `nhs_rtt_queries.sql` on the cleaned data.
+2. Run the queries in `nhs_rtt_queries.sql` on the SQLite database `Data/clean/rtt.db`.
 3. Open the `.pbix` file in `PowerBI/` to explore the dashboard.
 
 ## Tools I used
