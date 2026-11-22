@@ -29,7 +29,7 @@ My March 2026 total matches NHS England's published figure exactly. NHS England'
 3. **Analysed it in SQL.** I used joins, GROUP BY and aggregations to build the England-wide monthly trend, 18-week compliance by specialty and 52-week breaches by trust. I filtered to incomplete pathways, which is how NHS England reports the waiting list.
 4. **Built the dashboard in Power BI.** It has KPI cards for the headline numbers, trend charts and breakdowns by specialty and trust.
 5. **Checked my numbers.** I reconciled my March 2026 total with NHS England's published figure, checked that specialty totals add up to trust totals in every month, and looked for trusts missing from some months.
-6. **Reviewed and corrected my own work.** After publishing, I reviewed the project and fixed three errors: a text-matching bug that counted 100 to 104 week waits as within 18 weeks (1,672 patients over 12 months, no change to any headline percentage), a SQL join that multiplied totals in one query, and a dashboard card that averaged percentages instead of calculating them from patient counts. Full details are in [`VALIDATION_LOG.md`](VALIDATION_LOG.md), and every field is explained in [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md).
+6. **Reviewed and corrected my own work.** After publishing, I reviewed the project and fixed three errors: a text-matching bug that counted 100 to 104 week waits as within 18 weeks (1,672 patients over 12 months, no change to any headline percentage), a SQL join that multiplied totals in one query, and a dashboard card that averaged percentages instead of calculating them from patient counts. Every field is explained in [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md).
 
 ## How to run it
 
